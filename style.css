@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
+.nav {
+    background-color: rgb(190, 190, 190);
+    height: 80px;
+    width: 80%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 80px;
+    margin-right: 80px;
+
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(4, 4, 4);
+}
+.nav-title {
+    color: rgb(0, 0, 0);
+    font-weight: 900;
+    justify-self: flex-start;
+}
+
+.button{
+    align-self: center;
+    margin-right: 50px;
+
+
+}
+#btn{
+    border-color: black;
+    color: white;
+    align-self: center;
+    background-color: rgb(0, 122, 174);
+    box-shadow: 5px 5px 5px black;
+    width: 90px;
+    height: 40px;
+    cursor: pointer;
+}
+
+.btn1{
+    border-color: black;
+    color: rgb(0, 0, 0);
+    align-self: center;
+    background-color: rgb(190, 182, 118);
+    box-shadow: 5px 5px 5px black;
+    width: 90px;
+    height: 40px;
+    cursor:pointer;
+    font-weight: 700;
+}
+.btn2{
+    border-color: black;
+    color: rgb(0, 0, 0);
+    align-self: center;
+    background-color: rgb(130, 186, 137);
+    box-shadow: 5px 5px 5px black;
+    width: 90px;
+    height: 40px;
+    cursor:pointer;
+    width: 70%;
+    margin-left: 50px;
+    font-weight: 700;
+    font-size: large;
+}
+
+
+#cuadro1{
+    background-color: whitesmoke;
+    border: solid 3px;
+    border-color: silver;
+    height: 300px;
+    width: 53%;
+    margin-left: 80px;
+    margin-top: 50px;
+    display: inline-flex;
+    vertical-align: middle;
+    
+}
+
+.subcuadro1{
+    width: 30%;
+    align-self: center;
+    text-align: center;
+
+}
+.subcuadro1txt{
+    display: flex;
+    width: 70%;
+    align-self: center;
+    margin-right: 30px;
+}
+
+#cuadro3{
+    background-color: whitesmoke;
+    border: solid 3px;
+    border-color: silver;
+    height: 300px;
+    width: 53%;
+    margin-left: 80px;
+    margin-top: 50px;
+    display: inline-flex;
+    vertical-align: middle;
+    
+}
+
+.subcuadro3{
+    width: 30%;
+    align-self: center;
+    text-align: center;
+
+}
+.subcuadro3txt{
+    display: flex;
+    width: 70%;
+    align-self: center;
+    margin-right: 30px;
+}
+.noun{
+    font-weight: 300;
+}
+
+.settbtn {
+    height: 25px;
+    width: 25px;
+    margin-left: 50px;
+    margin-top: 50px;
+    align-self: center;
+}
+
+#cuadro2{
+    background-color: whitesmoke;
+    border: solid 3px;
+    border-color: silver;
+    height: 170px;
+    width: 22%;
+    margin-left: 50px;
+    display: inline-block;
+    vertical-align:top;
+    margin-top: 50px;
+    
+    
+
+}
+
+
+.txtcuadro2{
+    align-self: center;
+    text-align: center;
+
+}
+
+
